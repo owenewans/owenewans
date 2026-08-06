@@ -4,7 +4,7 @@
 
 C and assembly programmer. Reverse engineer. NixOS user.
 
-[website](https://owenewans.org) · [source](https://src.owenewans.org) · [email](mailto:owenewans@tuta.io)
+[website](https://owenewans.org) - [source](https://src.owenewans.org) - [email](mailto:owenewans@tuta.io)
 
 <a href="https://github.com/owenewans"><img src="https://count.owenewans.org/owenewans?theme=nixietube-1" alt="GitHub commit count"></a>
 
