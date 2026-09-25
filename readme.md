@@ -2,7 +2,7 @@
 
 # owenewans
 
-c and assembly programmer. reverse engineer. nixOS user.
+c and assembly programmer. reverse engineer. slackware user.
 
 [website](https://owenewans.org) - [source](https://src.owenewans.org) - [email](mailto:owenewans@tuta.io)
 
